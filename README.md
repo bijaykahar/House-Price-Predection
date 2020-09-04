@@ -1,2 +1,2 @@
-# House-Price-Predection
-Rubiks Internship Project 
+# House-Price-Prediction
+Rubixe Internship Project 
